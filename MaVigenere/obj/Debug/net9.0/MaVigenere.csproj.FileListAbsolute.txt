@@ -1,0 +1,15 @@
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/bin/Debug/net9.0/MaVigenere
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/bin/Debug/net9.0/MaVigenere.deps.json
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/bin/Debug/net9.0/MaVigenere.runtimeconfig.json
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/bin/Debug/net9.0/MaVigenere.dll
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/bin/Debug/net9.0/MaVigenere.pdb
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/MaVigenere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/MaVigenere.AssemblyInfoInputs.cache
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/MaVigenere.AssemblyInfo.cs
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/MaVigenere.csproj.CoreCompileInputs.cache
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/MaVigenere.sourcelink.json
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/MaVigenere.dll
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/refint/MaVigenere.dll
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/MaVigenere.pdb
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/MaVigenere.genruntimeconfig.cache
+/Users/feiron/DevRepos/MaVigenere/MaVigenere/obj/Debug/net9.0/ref/MaVigenere.dll
